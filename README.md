@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kalpesh Deshmukh</h1>
 <h3 align="center">I make softwares.</h3>
-(img align="right" alt="Coding" width="400" src="https://gifer.com/en/31Kl")
+<img align="right" alt="Coding" width="400" src="https://gifer.com/en/31Kl">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bootleg-boy" alt="bootleg-boy" /></a> </p>
 
