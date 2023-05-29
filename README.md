@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kalpesh Deshmukh</h1>
 <h3 align="center">Lorem Ipsum</h3>
-<img alt="Coding" width="400" src= "BTBw.gif">
-
+<div align="center">
+<img alt="Coding" width="400" src= "source.gif">
+</div>
 
 
 <p align="left"> <a href="https://twitter.com/micr0aggressi0n" target="blank"><img src="https://img.shields.io/twitter/follow/micr0aggressi0n?logo=twitter&style=for-the-badge" alt="micr0aggressi0n" /></a> </p>
