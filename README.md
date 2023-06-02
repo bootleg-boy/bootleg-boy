@@ -4,8 +4,11 @@
 
 
 <div class="container"; align="center">
-    <a href="https://linkedin.com/in/kalpesh-deshmukh-054257168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalpesh-deshmukh-054257168" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/badmofo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="badmofo" height="30" width="40" /></a>
+    <a href="https://twitter.com/micr0aggressi0n" target="blank"><img src="https://img.shields.io/twitter/follow/micr0aggressi0n?logo=twitter&style=for-the-badge" alt="micr0aggressi0n" /></a>
+    
+    <a href="https://linkedin.com/in/kalpesh-deshmukh-054257168" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="connect in LinkedIn" /></a>
+    <a href="https://www.hackerrank.com/badmofo" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="micr0aggressi0n" /></a>
+                                                                <img src="https://img.shields.io/  &style=for-the-badge"> </img>
 </div>
   
 - 🔭 I’m currently working on [Hemprevolution](www.hemprevolution.org)
@@ -15,13 +18,6 @@
 - 📝 I regularly write articles on [Devopinions.com](devopinions.com)
 
 - 📫 How to reach me **kalpesh.94@hotmail.com**
-
-<div align="center">
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bootleg-boy&show_icons=true&locale=en" alt="bootleg-boy" /></p>
-    
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bootleg-boy&" alt="bootleg-boy" /></p>
-    </div>
-    
 
 <div align="center">
     <img alt="Coding" width="100" src= "source.gif">
