@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalpesh Deshmukh</h1>
 <h3 align="center">Reach out</h3>
 
-<div align="center">
+<div align="center"; padding:20px>
     <a href="https://twitter.com/micr0aggressi0n" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="micr0aggressi0n" /></a>
     <a href="https://linkedin.com/in/kalpesh-deshmukh-054257168" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="connect in LinkedIn" /></a>
     <a href="https://www.hackerrank.com/badmofo" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="micr0aggressi0n" /></a>
@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [Devopinions.com](devopinions.com)
 
-- 📫 How to reach me **kalpesh.94@hotmail.com**
+- 📫 Email **kalpesh.94@hotmail.com**
 
 <div align="center">
     <img alt="Coding" width="100" src= "source.gif">
