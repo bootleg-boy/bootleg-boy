@@ -12,9 +12,9 @@
 
 - 🤝 I’m looking for help with [Content Writers@ Devopinions.com](www.devopinions.com)
 
-- 📝 I regularly write articles on [Devopinions.com](devopinions.com)
+- 📝 I (will) regularly write articles on [Devopinions.com](devopinions.com)
 
-- 📫 How to reach me **kalpesh.94@hotmail.com**
+- 📫 E-mail : **kalpesh.94@hotmail.com**
 
 <div align="center" >
     <img alt="Coding" width="100" src= "source.gif">
