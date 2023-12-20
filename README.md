@@ -8,13 +8,13 @@
                                                               
 </div>
   
-- 🔭 I’m currently working on [Hemprevolution](www.hemprevolution.org)
+- 🔭 I’m currently working on Cutwrights.com
 
-- 🤝 I’m looking for help with [Content Writers@ Devopinions.com](www.devopinions.com)
+- 🤝 I’m looking for help with zzz
 
 - 📝 I (will) regularly write articles on [Devopinions.com](devopinions.com)
 
-- 📫 E-mail : **kalpesh.94@hotmail.com**
+- 📫 E-mail : **kalpesh.19@hotmail.com**
 
 <div align="center" >
     <img alt="Coding" width="100" src= "source.gif">
