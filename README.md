@@ -10,7 +10,7 @@
   
 - 🔭 I’m currently working on Cutwrights.com
 
-- 🤝 I’m looking for help with zzz
+- 🤝 I’m looking for help with SEOs
 
 - 📝 I (will) regularly write articles on [Devopinions.com](devopinions.com)
 
