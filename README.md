@@ -10,12 +10,8 @@
   
 - 🔭 I’m currently working on Cutwrights.com
 
-- 🤝 I’m looking for help with SEOs
-
-- 📝 I (will) regularly write articles on [Devopinions.com](devopinions.com)
+- 📝 Portfolio Website -> devopinions.com
 
 - 📫 E-mail : **kalpesh.19@hotmail.com**
 
-<div align="center" >
-    <img alt="Coding" width="100" src= "source.gif">
-    </div>
+
